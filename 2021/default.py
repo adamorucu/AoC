@@ -1,7 +1,6 @@
 #!/usr/bin/python
 text = """"""
 
-text = open('data/1.in').read()
-data = [t for t in text.split()]
-
-print(data)
+# text = open('data/3.in')
+for line in text:
+    line.split()
