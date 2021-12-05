@@ -1,6 +1,4 @@
 #!/usr/bin/python
 text = """"""
 
-# text = open('data/3.in')
-for line in text:
-    line.split()
+# text = open('data/5.in').read()[:-1]
